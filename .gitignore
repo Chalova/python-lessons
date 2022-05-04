@@ -1,1 +1,3 @@
 .idea/
+LS-*/__pycache__/
+.DS_store
